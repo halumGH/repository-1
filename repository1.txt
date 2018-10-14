@@ -3,3 +3,4 @@ it first containt just 3 lines
 and this is last line
 this is additional line 
 and this is also
+and then i add this line
